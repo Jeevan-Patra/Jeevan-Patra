@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jeevan-Patra, an alchemist in Drug Design 
+- 👀 I’m interested in cheminformatics, ML/DL, and bioinformatics as an aid in Drug Discovery
+- 🌱 I’m currently digging into developing GUI-based drug discovery programs
+- 💞️ I’m looking to collaborate with software developers with whom I can work in developing GUI-based software 
+- 📫 I'm always proactive at jeevanpatra96@gmail.com 
